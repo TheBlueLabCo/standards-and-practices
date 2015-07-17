@@ -112,7 +112,7 @@ Format:
 | Drew M | [yet-another](https://github.com/yet-another) ||
 | Edmond Burnett | [edburnett](https://github.com/edburnett) | Python, JS, C++. Background in Network & Systems Administration. ||
 | Eli Mullis | [ewm9759](https://github.com/ewm9759) | Comp sci undergrad looking to contribute to OSS. Extensive coursework in Java, plus some self-taught experience with Python, C, and Haskell.
-| Elias Schroons | [TheBlueLabCo](https://github.com/TheBlueLabCo) | I have a crush on Full Stack JS, WordPress & Front-End Development |
+| Elias Schroons | [TheBlueLabCo](https://github.com/TheBlueLabCo) | I have a crush on Full Stack JS, WordPress & Front-End Development. |
 | Eric Chreng | [taqeric](https://github.com/taqeric) | Beginner in Python |
 | Eric Soderstrom | [eksoderstrom](https://github.com/eksoderstrom) ||
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
